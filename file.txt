@@ -7,6 +7,8 @@ This text is added in second branch
 adding second line for commit 2 
 
 this is the third update 
+
+this line is added in b2 for conflict
 adding in main for 
 the 
 merge conflicts
