@@ -8,3 +8,5 @@ adding second line for commit 2
 
 this is the third update 
 
+this line is added in b2 for conflict
+
